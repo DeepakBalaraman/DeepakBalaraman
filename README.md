@@ -10,22 +10,22 @@
 ### Find me in these places:
 <p align="left">
 <a href="https://youtube.com/ExultTechTV" target="_blank">
-	<img src="https://cdn0.iconfinder.com/data/icons/social-media-circle-6/1024/youtube-64.png" style="height: 40px; width: 40px;"></img>
+	<img src="https://cdn0.iconfinder.com/data/icons/social-media-circle-6/1024/youtube-64.png" width="40" height="40"></img>
 										</a>
                     <a href="https://twitter.com/ExultTechTV" target="_blank">
-	<img src="https://cdn0.iconfinder.com/data/icons/social-media-circle-6/1024/twitter-64.png" style="height: 40px; width: 40px; margin-left: 100px; transition: all 0.3s ease-in-out;" onmouseover></img>
+	<img src="https://cdn0.iconfinder.com/data/icons/social-media-circle-6/1024/twitter-64.png" width="40" height="40"></img>
 										</a>
                     <a href="https://instagram.com/ExultTechTV" target="_blank">
-	<img src="https://cdn0.iconfinder.com/data/icons/social-media-circle-6/1024/instagram-64.png" style="height: 40px; width: 40px; margin-left: 10px;"></img>
+	<img src="https://cdn0.iconfinder.com/data/icons/social-media-circle-6/1024/instagram-64.png" width="40" height="40"></img>
 										</a>
                     <a href="https://facebook.com/ExultTechTV" target="_blank">
-	<img src="https://cdn0.iconfinder.com/data/icons/social-media-circle-6/1024/facebook-64.png" style="height: 40px; width: 40px; margin-left: 10px;"></img>
+	<img src="https://cdn0.iconfinder.com/data/icons/social-media-circle-6/1024/facebook-64.png" width="40" height="40"></img>
 										</a>
                     <a href="https://linkedin.com/in/Deepak-Balaraman" target="_blank">
-	<img src="https://cdn0.iconfinder.com/data/icons/social-media-circle-6/1024/linkedin-64.png" style="height: 40px; width: 40px; margin-left: 10px;"></img>
+	<img src="https://cdn0.iconfinder.com/data/icons/social-media-circle-6/1024/linkedin-64.png" width="40" height="40"></img>
 										</a>
                     <a href="mailto:exulttechtv@gmail.com" target="_blank">
-	<img src="https://cdn0.iconfinder.com/data/icons/social-media-circle-6/1024/mail-64.png" style="height: 40px; width: 40px; margin-left: 10px;"></img>
+	<img src="https://cdn0.iconfinder.com/data/icons/social-media-circle-6/1024/mail-64.png" width="40" height="40"></img>
 										</a>
 </p>
 
