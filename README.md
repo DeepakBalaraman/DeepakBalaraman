@@ -1,11 +1,11 @@
 ### Hi There, I'm Deepak <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-- I'm an Android App Developer :iphone:
-- I'm a Freelance Graphic Designer :art:
+- I'm an Freelance Developer and Designer :man_technologist:
+- I can build websites :globe_with_meridians: and apps :iphone:
+- I can also make logos :art:, design posters :scroll: and edit videos :tv:
 - I'm a Tech YouTuber :movie_camera:
-- I'm currently learning Web Development :globe_with_meridians:
-
+- I'm currently learning a lot of things :nerd_face:
 
 ### Find me in these places:
 <p align="left">
@@ -24,7 +24,7 @@
                     <a href="https://linkedin.com/in/Deepak-Balaraman" target="_blank">
 	<img src="https://cdn0.iconfinder.com/data/icons/social-media-circle-6/1024/linkedin-64.png" width="40" height="40"></img>
 										</a>
-                    <a href="mailto:exulttechtv@gmail.com" target="_blank">
+                    <a href="mailto:deepakbalaraman22@gmail.com" target="_blank">
 	<img src="https://cdn0.iconfinder.com/data/icons/social-media-circle-6/1024/mail-64.png" width="40" height="40"></img>
 										</a>
 </p>
