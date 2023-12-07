@@ -1,11 +1,11 @@
 ### Hi There, I'm Deepak <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-- I'm an Freelance Developer and Designer :man_technologist:
-- I can build websites :globe_with_meridians: and apps :iphone:
-- I can also make logos :art:, design posters :scroll: and edit videos :tv:
-- I'm a Tech YouTuber :movie_camera:
-- I'm currently learning a lot of things :nerd_face:
+- I'm an Freelance Developer and Designer 👨‍💻
+- I can build websites 🌐 and apps 📱
+- I can also make attractive animations 🎞️, design logos 🎨, design posters 📜 and edit videos 📺
+- I'm a Tech YouTuber 🎥
+- I'm currently learning a lot of things 🤓
 
 ### Find me in these places:
 <p align="left">
