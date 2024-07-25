@@ -33,7 +33,7 @@ export default function Footer() {
     },
     {
       name: "LinkedIn",
-      url: "https://www.linked.com/in/DeepakBalaraman",
+      url: "https://www.linkedin.com/in/DeepakBalaraman",
       icon: RiLinkedinLine,
     },
     {
