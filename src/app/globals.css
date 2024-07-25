@@ -2,6 +2,14 @@
 @tailwind components;
 @tailwind utilities;
 
+[data-aos="intro-animate"] {
+  @apply blur-[2px] opacity-25 translate-y-3;
+}
+
+[data-aos="intro-animate"].aos-animate {
+  @apply blur-none opacity-100 transform-none;
+}
+
 :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
@@ -30,4 +38,15 @@ body {
   .text-balance {
     text-wrap: balance;
   }
+}
+
+
+.typing-cursor {
+  @apply font-thin text-primary-600 dark:text-primary-400 animate-blink;
+}
+
+@property --border-angle {
+  inherits: false;
+  initial-value: 0deg;
+  syntax: '<angle>';
 }
