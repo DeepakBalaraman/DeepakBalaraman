@@ -28,7 +28,7 @@ export default function Hero() {
         <RiArrowRightSLine className="size-5" />
       </Link>
 
-      <h1 className="pt-20 font-semibold text-3xl md:text-4xl lg:text-6xl text-balance flex flex-col gap-y-5 text-center">
+      <h1 className="pt-20 font-semibold tracking-tight text-3xl md:text-4xl lg:text-6xl text-balance flex flex-col gap-y-5 text-center">
         <span data-aos="intro-animate">
           <span className="bg-clip-text text-transparent bg-gradient-to-r from-slate-800/80 dark:from-slate-400/80 to-slate-800 dark:to-slate-200">
             Hi, I&apos;m{" "}
