@@ -14,6 +14,7 @@ export default function TypewriterEffect({ words }) {
           autoStart: true,
           loop: true,
           cursorClassName: "typing-cursor",
+          pauseFor: 500,
         }}
       />
     </span>
