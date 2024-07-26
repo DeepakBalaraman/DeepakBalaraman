@@ -65,7 +65,7 @@ export default function Footer() {
 
   return (
     <footer className="relative w-full bg-slate-50 dark:bg-slate-950 p-2">
-      <div className="max-w-screen-2xl mx-auto py-4 flex flex-col gap-y-8 sm:flex-row items-center justify-between shadow-md shadow-slate-500/20 dark:shadow-black/30 bg-gradient-to-b from-slate-100 to-slate-200 dark:from-slate-800 dark:to-slate-900 rounded-3xl lg:rounded-full px-5">
+      <div className="max-w-screen-2xl mx-auto py-4 flex flex-col gap-y-8 sm:flex-row items-center justify-between shadow-md shadow-slate-500/20 dark:shadow-black/30 bg-gradient-to-tr from-slate-200/80 via-slate-100 to-slate-200/80 dark:from-slate-900 dark:via-slate-800 dark:to-slate-900/80 rounded-3xl lg:rounded-full px-5">
         <ul className="flex-1 flex flex-row h-full text-lg gap-x-8">
           {socials.map((s) => (
             <li
