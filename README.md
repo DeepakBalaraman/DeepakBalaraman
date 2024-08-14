@@ -1,11 +1,10 @@
 ### Hi There, I'm Deepak <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-- I'm an Freelance Developer and Designer 👨‍💻
+- I'm a Freelance Developer and Designer 👨‍💻
 - I can build websites 🌐 and apps 📱
 - I can also make attractive animations 🎞️, design logos 🎨, design posters 📜 and edit videos 📺
-- I'm a Tech YouTuber 🎥
-- I'm currently learning a lot of things 🤓
+- I'm currently learning a lot of things to improve my skills 🤓
 
 ### Find me in these places:
 <p align="left">
