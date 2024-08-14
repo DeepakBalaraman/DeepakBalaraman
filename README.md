@@ -34,20 +34,20 @@
 
 #### Languages
 
-[![Languages](https://skillicons.dev/icons?i=c,cpp,js,py,java,ts&perline=8)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=c,cpp,js,py,java,ts&perline=6)](https://skillicons.dev)
 
 #### Development Tools, Libraries & Frameworks
 
-[![Development Tools, Libraries & Frameworks](https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,express,nodejs,bun,androidstudio,electron,jquery,selenium&perline=8)](https://skillicons.dev)
+[![Development Tools, Libraries & Frameworks](https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,express,nodejs,bun,androidstudio,electron,jquery,selenium&perline=6)](https://skillicons.dev)
 
 #### Platform, Cloud and & Tools
 
-[![Platform, Cloud & Deployment](https://skillicons.dev/icons?i=linux,nginx,aws,vercel,netlify,firebase,docker,kubernetes,git,github&perline=8)](https://skillicons.dev)
+[![Platform, Cloud & Deployment](https://skillicons.dev/icons?i=linux,nginx,aws,vercel,netlify,firebase,docker,kubernetes,git,github&perline=6)](https://skillicons.dev)
 
 #### Databases & Tools
 
-[![Databases & Tools](https://skillicons.dev/icons?i=mongodb,postgres,mysql,prisma&perline=8)](https://skillicons.dev)
+[![Databases & Tools](https://skillicons.dev/icons?i=mongodb,postgres,mysql,prisma&perline=6)](https://skillicons.dev)
 
 #### Design Tools
 
-[![Languages](https://skillicons.dev/icons?i=ae,pr,ps,ai,figma&perline=8)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=ae,pr,ps,ai,figma&perline=6)](https://skillicons.dev)
