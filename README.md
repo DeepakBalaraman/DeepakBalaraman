@@ -1,32 +1,53 @@
-### Hi There, I'm Deepak <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
+### Hi There, I'm Deepak! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
 - I'm a Freelance Developer and Designer 👨‍💻
 - I can build websites 🌐 and apps 📱
 - I can also make attractive animations 🎞️, design logos 🎨, design posters 📜 and edit videos 📺
 - I'm currently learning a lot of things to improve my skills 🤓
 
-### Find me in these places:
-<p align="left">
-<a href="https://youtube.com/ExultTechTV" target="_blank">
-	<img src="https://cdn0.iconfinder.com/data/icons/social-media-circle-6/1024/youtube-64.png" width="40" height="40"></img>
-										</a>
-                    <a href="https://twitter.com/ExultTechTV" target="_blank">
-	<img src="https://cdn0.iconfinder.com/data/icons/social-media-circle-6/1024/twitter-64.png" width="40" height="40"></img>
-										</a>
-                    <a href="https://instagram.com/ExultTechTV" target="_blank">
-	<img src="https://cdn0.iconfinder.com/data/icons/social-media-circle-6/1024/instagram-64.png" width="40" height="40"></img>
-										</a>
-                    <a href="https://facebook.com/ExultTechTV" target="_blank">
-	<img src="https://cdn0.iconfinder.com/data/icons/social-media-circle-6/1024/facebook-64.png" width="40" height="40"></img>
-										</a>
-                    <a href="https://linkedin.com/in/Deepak-Balaraman" target="_blank">
-	<img src="https://cdn0.iconfinder.com/data/icons/social-media-circle-6/1024/linkedin-64.png" width="40" height="40"></img>
-										</a>
-                    <a href="mailto:deepakbalaraman22@gmail.com" target="_blank">
-	<img src="https://cdn0.iconfinder.com/data/icons/social-media-circle-6/1024/mail-64.png" width="40" height="40"></img>
-										</a>
-</p>
+<br/>
 
-### Tools and Languages:
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Connect with me
+
+<a href="https://twitter.com/ExultTechTV" target="_blank">
+	<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/twitter-app-icon.svg" width="48" height="48"></img>
+</a>
+<a href="https://instagram.com/ExultTechTV" target="_blank">
+	<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ig-instagram-icon.svg" width="48" height="48"></img>
+</a>
+<a href="https://facebook.com/ExultTechTV" target="_blank">
+	<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/facebook-round-color-icon.svg" width="48" height="48"></img>
+</a>
+<a href="https://linkedin.com/in/Deepak-Balaraman" target="_blank">
+	<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.png" width="48" height="48"></img>
+</a>
+<a href="https://t.me/dpakb" target="_blank">
+	<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/telegram-icon.svg" width="48" height="48"></img>
+</a>
+<a href="mailto:deepakbalaraman22@gmail.com" target="_blank">
+	<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/gmail-icon.svg" width="48" height="48"></img>
+</a>
+
+<br/>
+
+### Skills
+
+#### Languages
+
+[![Languages](https://skillicons.dev/icons?i=c,cpp,js,py,java,ts&perline=8)](https://skillicons.dev)
+
+#### Development Tools, Libraries & Frameworks
+
+[![Development Tools, Libraries & Frameworks](https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,express,nodejs,bun,androidstudio,electron,jquery,selenium&perline=8)](https://skillicons.dev)
+
+#### Platform, Cloud and & Tools
+
+[![Platform, Cloud & Deployment](https://skillicons.dev/icons?i=linux,nginx,aws,vercel,netlify,firebase,docker,kubernetes,git,github&perline=8)](https://skillicons.dev)
+
+#### Databases & Tools
+
+[![Databases & Tools](https://skillicons.dev/icons?i=mongodb,postgres,mysql,prisma&perline=8)](https://skillicons.dev)
+
+#### Design Tools
+
+[![Languages](https://skillicons.dev/icons?i=ae,pr,ps,ai,figma&perline=8)](https://skillicons.dev)
