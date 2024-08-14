@@ -1,4 +1,4 @@
-### Hi There, I'm Deepak! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
+[![Hi there, I'm Deepak!](https://readme-typing-svg.demolab.com?font=Inter+Tight&weight=600&size=30&duration=2500&pause=1000&color=0078D7&vCenter=true&width=435&lines=Hi+there%2C+I'm+Deepak!)](https://git.io/typing-svg)
 
 - I'm a Freelance Developer and Designer 👨‍💻
 - I can build websites 🌐 and apps 📱
