@@ -1,9 +1,9 @@
 [![Hi there, I'm Deepak!](https://readme-typing-svg.demolab.com?font=Inter+Tight&weight=600&size=30&duration=2500&pause=1000&color=0078D7&vCenter=true&width=435&lines=Hi+there%2C+I'm+Deepak!)](https://git.io/typing-svg)
 
-- I'm a Freelance Developer and Designer 👨‍💻
+- I'm a Freelance Developer 👨‍💻 and Designer 🎨
 - I can build websites 🌐 and apps 📱
-- I can also make attractive animations 🎞️, design logos 🎨, design posters 📜 and edit videos 📺
-- I'm currently learning a lot of things to improve my skills 🤓
+- I can also make attractive animations 🎞️, design logos 🖼️, design posters 📜 and edit videos 📺
+- I'm currently learning a lot of things 🤓
 
 <br/>
 
@@ -12,14 +12,17 @@
 <a href="https://twitter.com/ExultTechTV" target="_blank">
 	<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/twitter-app-icon.svg" width="48" height="48"></img>
 </a>
-<a href="https://instagram.com/ExultTechTV" target="_blank">
+<a href="https://instagram.com/dpak.b" target="_blank">
 	<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ig-instagram-icon.svg" width="48" height="48"></img>
 </a>
+<a href="https://threads.net/@dpak.b" target="_blank">
+	<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/threads-app-icon.svg"  width="48" height="48"></img>
+</a>
 <a href="https://facebook.com/ExultTechTV" target="_blank">
-	<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/facebook-round-color-icon.svg" width="48" height="48"></img>
+	<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/facebook-square-icon.svg" width="48" height="48"></img>
 </a>
 <a href="https://linkedin.com/in/Deepak-Balaraman" target="_blank">
-	<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.png" width="48" height="48"></img>
+	<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.svg" width="48" height="48"></img>
 </a>
 <a href="https://t.me/dpakb" target="_blank">
 	<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/telegram-icon.svg" width="48" height="48"></img>
