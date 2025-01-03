@@ -43,7 +43,7 @@
 
 [![Development Tools, Libraries & Frameworks](https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,express,nodejs,bun,androidstudio,electron,jquery,selenium&perline=6)](https://skillicons.dev)
 
-#### Platform, Cloud and & Tools
+#### Platform, Cloud & Tools
 
 [![Platform, Cloud & Deployment](https://skillicons.dev/icons?i=linux,nginx,aws,vercel,netlify,firebase,docker,kubernetes,git,github,postman,vscode&perline=6)](https://skillicons.dev)
 
